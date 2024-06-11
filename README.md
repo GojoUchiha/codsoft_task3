@@ -3,7 +3,8 @@ you will find a collection of projects that I have completed during my internshi
 Each project showcases my skills in data analysis, machine learning, and problem-solving.
 
 Below is a summary of the projects:
-Task_3. CUSTOMER CHURN PREDICTION Description: Develop a model to predict customer churn for a subscription- based service or business. 
+Task_3 - CUSTOMER CHURN PREDICTION Description: 
+Develop a model to predict customer churn for a subscription- based service or business. 
 Use historical customer data, including features like usage behavior and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn. 
 I have used Logistic Regression.
 
